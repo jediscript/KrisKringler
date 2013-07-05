@@ -1,0 +1,8 @@
+This simple web app generates shuffled partnered-names.
+
+Usage:
+1. Type the number of participants and click Submit.
+2. Fill-up the empty form of names according to the number of participants you entered.
+3. Click Go, and the app will display the names of partners. No duplicates.
+
+Use this on Family/Friends/Company Exchange gifts. Just use codenames to keep it anonymous.
