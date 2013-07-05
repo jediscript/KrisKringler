@@ -19,6 +19,7 @@
 	<body>
 		<div class="container headline">
 			<br>
+			<a href="https://github.com/jediscript/KrisKringler" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
 			<h1 class="changeFont">Kris Kringlers <small><i id="helpTooltip" title="Type the number of participants and hit submit. Then enter the name/codename of the participants. Then hit Go!" data-placement="right" class="icon-question-sign"></i></small></h1>
 			<div class="social_sharing"> 
 		        <div class="tweeting pull-left">
